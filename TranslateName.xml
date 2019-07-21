@@ -1,0 +1,64 @@
+<NameInfo>
+	<Entry szsName="Gctr_MarioCircuit" humanName="Mario Circuit"/>
+	<Entry szsName="Gctr_RallyCourse" humanName="Rock Rock Mountain"/>
+	<Entry szsName="Gctr_MarineRoad" humanName="Cheep Cheep Lagoon"/>
+	<Entry szsName="Gctr_GlideLake" humanName="Daisy Hills"/>
+	<Entry szsName="Gctr_ToadCircuit" humanName="Toad Circuit"/>
+	<Entry szsName="Gctr_SandTown" humanName="Shy Guy Bazaar"/>
+	<Entry szsName="Gctr_AdvancedCircuit" humanName="Neo Bowser City"/>
+	<Entry szsName="Gctr_DKJungle" humanName="Donkey Kong Jungle"/>
+	<Entry szsName="Gctr_WuhuIsland1" humanName="Wuhu Loop"/>
+	<Entry szsName="Gctr_WuhuIsland2" humanName="Maka Wuhu"/>
+	<Entry szsName="Gctr_IceSlider" humanName="Rosalina Ice World"/>
+	<Entry szsName="Gctr_BowserCastle" humanName="Bowser Castle"/>
+	<Entry szsName="Gctr_UnderGround" humanName="Piranha Plant Slide"/>
+	<Entry szsName="Gctr_RainbowRoad" humanName="Rainbow Road"/>
+	<Entry szsName="Gctr_WarioShip" humanName="Wario Shipyard"/>
+	<Entry szsName="Gctr_MusicPark" humanName="Music Park"/>
+	<Entry szsName="Gwii_CoconutMall" humanName="Wii Coconut Mall"/>
+	<Entry szsName="Gwii_KoopaCape" humanName="Wii Koopa Cape"/>
+	<Entry szsName="Gwii_MapleTreeway" humanName="Wii Maple Treeway"/>
+	<Entry szsName="Gwii_MushroomGorge" humanName="Wii Mushroom Gorge"/>
+	<Entry szsName="Gds_LuigisMansion" humanName="DS Luigi's Mansion"/>
+	<Entry szsName="Gds_AirshipFortress" humanName="DS Airship Fortress"/>
+	<Entry szsName="Gds_DKPass" humanName="DS Donkey Kong Pass"/>
+	<Entry szsName="Gds_WaluigiPinball" humanName="DS Waluigi Pinball"/>
+	<Entry szsName="Ggc_DinoDinoJungle" humanName="GCN Dino Dino Jungle"/>
+	<Entry szsName="Ggc_DaisyCruiser" humanName="GCN Daisy Cruiser"/>
+	<Entry szsName="Gn64_LuigiCircuit" humanName="N64 Luigi Circuit"/>
+	<Entry szsName="Gn64_KalimariDesert" humanName="N64 Kalimari Desert"/>
+	<Entry szsName="Gn64_KoopaTroopaBeach" humanName="N64 Koopa Troopa Beach"/>
+	<Entry szsName="Gagb_BowserCastle1" humanName="GBA Boweser Castle 1"/>
+	<Entry szsName="Gsfc_MarioCircuit2" humanName="SNES Mario Circuit 2"/>
+	<Entry szsName="Gsfc_RainbowRoad" humanName="SNES Rainbow Road"/>
+	<Entry szsName="Ctgp_ConcTown" humanName="CTGP-7 Concord Town"/>
+	<Entry szsName="Ctgp_MarioCircuit1" humanName="CTGP-7 SNES Mario Circuit 1"/>
+	<Entry szsName="Ctgp_GalvarnyFalls" humanName="CTGP-7 Galvarny Falls"/>
+	<Entry szsName="Ctgp_SkaiiGarden" humanName="CTGP-7 GBA Sky Garden"/>
+	<Entry szsName="Ctgp_AutumnForest" humanName="CTGP-7 Autumn Forest"/>
+	<Entry szsName="Ctgp_CheeseLand" humanName="CTGP-7 GBA Cheese Land"/>
+	<Entry szsName="Ctgp_KalimariDesert" humanName="CTGP-7 Kalimari Icy Desert"/>
+	<Entry szsName="Ctgp_BowserCastle3" humanName="CTGP-7 GBA Boweser Castle 3"/>
+	<Entry szsName="Ctgp_EvGre" humanName="CTGP-7 Evergreen Crossing"/>
+	<Entry szsName="Ctgp_PeeeaachBeeeaach" humanName="CTGP-7 GCN Peach Beach"/>
+	<Entry szsName="Ctgp_BaysideBoule" humanName="CTGP-7 Bayside Boulevard"/>
+	<Entry szsName="Ctgp_FrapeSnow" humanName="CTGP-7 Frappe Snowland"/>
+	<Entry szsName="Ctgp_MoooMoooFarm" humanName="CTGP-7 N64 Moo Moo Farm"/>
+	<Entry szsName="Ctgp_BanshBoardT" humanName="CTGP-7 Banshee Boardwalk 2"/>
+	<Entry szsName="Ctgp_WarioColoss" humanName="CTGP-7 Wario Colosseum"/>
+	<Entry szsName="Ctgp_GhostValleyT" humanName="CTGP-7 GBA Ghost Valley 2"/>
+	<Entry szsName="Ctgp_MelodSanc" humanName="CTGP-7 Melody Sanctuum"/>
+	<Entry szsName="Ctgp_MarioRacewa" humanName="CTGP-7 N64 Mario Raceway"/>
+	<Entry szsName="Ctgp_WarioMine" humanName="CTGP-7 Wii Wario's Gold Mine"/>
+	<Entry szsName="Ctgp_ElementalCave" humanName="CTGP-7 Elemental Cave"/>
+	<Entry szsName="Ctgp_YoshFalls" humanName="CTGP-7 DS Yoshi Falls"/>
+	<Entry szsName="Ctgp_DownpaourCeetee" humanName="CTGP-7 Downpour City"/>
+	<Entry szsName="Ctgp_ChpChpBch" humanName="CTGP-7 DS Cheep Cheep Beach"/>
+	<Entry szsName="Ctgp_DeseHill" humanName="CTGP-7 DS Desert Hills"/>
+	<Entry szsName="Ctgp_TickTockClock" humanName="CTGP-7 DS Tick Tock Clock"/>
+	<Entry szsName="Ctgp_RiversiPark" humanName="CTGP-7 GBA Riverside Park"/>
+	<Entry szsName="Ctgp_CastlOfTime" humanName="CTGP-7 Castle Of Time"/>
+	<Entry szsName="Ctgp_N64RainbowR" humanName="CTGP-7 N64 Rainbow Road"/>
+	<Entry szsName="Ctgp_SpeiceRouad" humanName="CTGP-7 Space Road"/>
+	<Entry szsName="Ctgp_MikuBirtSpe" humanName="CTGP-7 Miku's Birthday Spectacular"/>
+</NameInfo>
